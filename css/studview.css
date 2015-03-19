@@ -1,0 +1,23 @@
+#forex-bar {
+	background-color: #000000;
+}
+
+#forex-bar p {
+	color: #ffffff;
+	margin: 10px;
+}
+
+#forex-bar input {
+	margin: 10px;
+	border-radius: 10px;
+	height: 20px;
+}
+
+#forex-bar select {
+	margin: 10px;
+	height: 20px;
+}
+
+#studdata {
+	margin-top: 15px;
+}
